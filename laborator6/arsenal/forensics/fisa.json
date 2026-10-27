@@ -1,0 +1,8 @@
+{
+  "straturi": [
+    "base64",
+    "base64",
+    "hex"
+  ],
+  "rezultat": "FLAG{straturi_de_encoding}"
+}
